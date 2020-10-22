@@ -12,6 +12,12 @@ udp://9.rarbg.me:2830/announce
 
 udp://9.rarbg.to:2950/announce
 
+http://tracker.trackerfix.com:A80/Fannounce
+
+http://tracker.trackerfix.com:8080/Fannounce
+
+http://tracker.trackerfix.com:80/Fannounce
+
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
