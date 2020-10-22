@@ -1,4 +1,4 @@
-http://Ftracker.trackerfix.com:80/announce
+http://tracker.trackerfix.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
